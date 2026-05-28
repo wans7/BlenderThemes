@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BlenderThemes
-- 👀 I’m interested in creating Themes for Blender 
-- 📫 If you has problem when using Themes feel free to inbox me at https://www.artstation.com/blenderthemes, Send secreen shot for the Themes problem.
+- 👋 Hi, I’m @wans7
+- 👀 I’m interested in creating Addon, Plugin and Software
+- 📫 If you has problem when using it feel free to inbox me
 
 <!---
 BlenderThemes/BlenderThemes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
